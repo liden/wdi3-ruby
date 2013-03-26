@@ -1,0 +1,4 @@
+bob, 21, male
+mary, 22, female
+sally, 30, female
+bob, 33, male
